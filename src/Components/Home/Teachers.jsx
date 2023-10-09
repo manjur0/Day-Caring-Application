@@ -1,9 +1,10 @@
+import Teacher from "./Teacher";
 
 
 const Teachers = () => {
     return (
         <div>
-            <h3>teachers</h3>
+            <Teacher></Teacher>
         </div>
     );
 };

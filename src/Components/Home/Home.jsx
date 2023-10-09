@@ -16,7 +16,7 @@ const Home = () => {
 
             {/* Events Container */}
             <div className=" text-center my-20">
-                <h2 className="text-6xl font-semibold mb-5">Welcome to  <br /><span className="text-[#F37335]">Shelly</span>
+                <h2 className="md:text-6xl text-3xl font-semibold mb-5">Introduction to our  <br /><span className="text-[#F37335]">events</span>
                 </h2>
                 <p className="text-sm">Nunc consectetur ex nunc,<br /> id porttitor leo semper eget. Vivamus interdum, <br />mauris quis cursus sodales, urn</p>
             </div>

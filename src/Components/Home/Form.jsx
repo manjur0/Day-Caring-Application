@@ -20,7 +20,7 @@ const Form = () => {
                                 </div>
                                
                                 <div className="form-control mt-6">
-                                    <button className="btn btn-primary">Subscribe</button>
+                                    <button className="btn bg-[#f79b32] text-white hover:bg-black">Subscribe</button>
                                 </div>
                             </form>
                         </div>

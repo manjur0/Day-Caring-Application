@@ -5,9 +5,9 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className='container mx-auto my-8  md:flex md:justify-between items-center border-b-2 pb-4'>
+        <div className='container mx-auto my-8  md:flex md:justify-between md:items-center border-b-2 pb-4'>
             <div >
-                <Link to='/'><img src={logo} alt="" /></Link>
+                <Link to='/'><img  src={logo} alt="" /></Link>
             </div>
             <div className='flex md:flex px-4 justify-center items-center gap-8'>
                 <div>

@@ -15,6 +15,8 @@ import Teachers from './Components/Home/Teachers';
 import Blog from './Components/Home/Blog';
 import Contact from './Components/Home/Contact';
 import EventsDetails from './Components/EventsCard/EventsDetails';
+import Login from './Components/Login/Login';
+import Register from './Components/Register/Register';
 
 
 
@@ -43,7 +45,7 @@ const router = createBrowserRouter([
         element: <Classes></Classes>
       },
       {
-        path: '/teacher',
+        path: '/mentors',
         element: <Teachers></Teachers>
       },
       {
@@ -53,7 +55,15 @@ const router = createBrowserRouter([
       {
         path: '/contact',
         element: <Contact></Contact>
-      }
+      },
+      {
+        path: '/login',
+        element: <Login></Login>
+      },
+    {
+      path: '/register',
+      element: <Register></Register>
+    }
     ]
   },
 ]);

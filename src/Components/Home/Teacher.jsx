@@ -5,7 +5,7 @@ const Teacher = () => {
         <div>
             <div className=" text-center my-20">
                 <h2 className="text-6xl font-semibold mb-5">Our Awesome <br />
-                    <span className="text-[#F37335]">Teachers </span>
+                    <span className="text-[#F37335]">Mentors </span>
                 </h2>
                 <p className="text-sm">Quisque id ultrices tellus, <br /> ac sodales ex. Cras nec ante viverra, bibendum justo eget,<br /> lacinia dui. Donec ligula ligula, elementum sit amet</p>
             </div>
