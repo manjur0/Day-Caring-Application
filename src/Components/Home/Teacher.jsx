@@ -11,7 +11,7 @@ const Teacher = () => {
             </div>
 
             {/* teacher lish and img */}
-            <div className="mb-16 container mx-auto grid grid-cols-4 gap-5">
+            <div className="mb-16 container mx-auto grid my-3 p-8 md:grid-cols-4 md:gap-5">
                 <div className="md:w-60 mx-auto" >
                     <img className="rounded-xl" src="https://html.merku.love/shelly/assets/img/img5.jpg" alt="" />
                     <div className="text-center">

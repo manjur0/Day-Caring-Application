@@ -14,6 +14,7 @@ import Classes from './Components/Home/Classes';
 import Teachers from './Components/Home/Teachers';
 import Blog from './Components/Home/Blog';
 import Contact from './Components/Home/Contact';
+import EventsDetails from './Components/EventsCard/EventsDetails';
 
 
 
@@ -25,7 +26,13 @@ const router = createBrowserRouter([
     children: [
       {
         path: '/',
-        element: <Home></Home>
+        element: <Home></Home>,
+        loader: () => fetch('/data.json')
+      },
+      {
+        path: "/event/:id",
+        element: <EventsDetails></EventsDetails>,
+        loader: () => fetch('/data.json'),
       },
       {
         path: '/about',

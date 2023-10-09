@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Natural Sciences & Mathematics Courses",
+        "date"  : "February 14 2021",
+        "description": "In the ever-evolving landscape of education, the study of natural sciences and mathematics has always held a prominent place. These disciplines are the bedrock of human understanding, enabling us to decode the mysteries of the universe and develop innovative solutions to complex problems. Whether you are a budding scientist, an aspiring engineer, or simply a curious mind, natural sciences and mathematics courses offer a gateway to knowledge that is both fascinating and essential. In this article, we will explore the importance and the excitement surrounding these courses.  Unraveling the Natural World Natural sciences encompass a broad spectrum of disciplines, including biology, chemistry, physics, and environmental science. These courses provide a window into the natural world, from the microscopic intricacies of cellular biology to the grandeur of the cosmos. They allow students to explore the fundamental principles that govern the universe, answering questions about the origins of life, the behavior of matter and energy, and the delicate balance of ecosystems. ",
+        "price": 19.99,
+        "picture": "https://html.merku.love/shelly/assets/img/img2.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Basic English Speaking and Grammar",
+        "date"  : "February 14 2022",
+        "description": "An elegant timepiece with a stainless steel band and automatic movement.",
+        "price": 249.99,
+        "picture": "https://html.merku.love/shelly/assets/img/img1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Environmental Studies & Earth Sciences",
+        "date"  : "February 14 2020",
+        "description": "Fashionable sunglasses with UV protection for a cool summer look.",
+        "price": 79.99,
+        "picture": "https://html.merku.love/shelly/assets/img/img3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Hospitality, Leisure & Sports Courses",
+        "date"  : "February 14 2023",
+        "description": "Capture stunning photos and enjoy the latest features with this smartphone.",
+        "price": 499.99,
+        "picture": "https://html.merku.love/shelly/assets/img/img1.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Natural Sciences & Mathematics Courses",
+        "date"  : "February 14 2022",
+        "description": "Indulge in the rich flavors of our hand-selected gourmet coffee beans.",
+        "price": 29.99,
+        "picture": "https://html.merku.love/shelly/assets/img/img2.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Basic English Speaking and Grammar",
+        "date"  : "February 14 2021",
+        "description": "English often dubbed the global lingua franca is one of the most ",
+        "price": 999.99,
+        "picture": "https://html.merku.love/shelly/assets/img/img1.jpg"
+    }
+]
